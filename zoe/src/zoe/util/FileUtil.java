@@ -13,7 +13,7 @@ import org.apache.log4j.Logger;
 
 /**
  * @ClassName: FileUtil
- * @Description: TODO(这里用一句话描述这个类的作用)
+ * @Description: (文件工具类)
  * @author zoe 515165137@qq.com
  * @date 2017年12月26日 上午9:46:57
  *
